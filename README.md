@@ -38,4 +38,4 @@ This project focuses on predictive modeling using various machine learning algor
 ## How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/ridhin006/Telco_Customer_Churn-prediction>
